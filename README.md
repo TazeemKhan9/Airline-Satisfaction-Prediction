@@ -41,9 +41,4 @@ Baggage.handling
 Arrival.Delay.in.Minutes
 Departure.Delay.in.Minutes
 
-The predictions made by using the above significant variables gave us an accuracy of 88.27% when compared to the testing data.
-
-                                                    Reference
-Prediction                           neutral or dissatisfied      satisfied
-neutral or dissatisfied                  13127                      1600
-satisfied                                1446                       9803
+# The predictions made by using the above significant variables gave us an accuracy of 88.27% when compared to the testing data.
